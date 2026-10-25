@@ -1,18 +1,12 @@
-# 💫 About Me:
-🔭I'm currently working on <br>🌱I'm currently learning Java<br>💭Ask me about F1<br>⚡Fun fact: The original name for a computer bug was actually a moth.
+<h1 align="center">Hi, I'm Noel 👋</h1>
+<p align="center">
+  <b>Data &amp; Business Systems Analyst</b> · Computer Science @ Queen's University Belfast<br>
+  Currently on placement in Business Systems at <b>Collins Aerospace</b>
+</p>
+<p align="center">
+  <a href="https://www.n8el.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-n8el.com-ffb454?style=for-the-badge&logo=firefoxbrowser&logoColor=black"></a>
+  <a href="https://linkedin.com/in/noel-koshy"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:noel@n8el.com"><img alt="Email" src="https://img.shields.io/badge/Email-noel%40n8el.com-444?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/noel.koshyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noel-koshy) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=flat&logo=Uber&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=n8el&icon=8&color=12)](https://visitcount.itsvg.in)
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center"><sub><a href="https://www.n8el.com">n8el.com</a></sub></p>
